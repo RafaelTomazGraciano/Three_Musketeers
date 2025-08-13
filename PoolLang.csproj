@@ -12,8 +12,4 @@
     <PackageReference Include="Antlr4.Runtime.Standard" Version="4.13.1" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Lang\Grammar\" />
-  </ItemGroup>
-
 </Project>
