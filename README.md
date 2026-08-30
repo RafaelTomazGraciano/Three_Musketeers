@@ -1,6 +1,6 @@
 # Three Musketeers
 
-![Version](https://img.shields.io/badge/version-v1.0.0Athos-blue.svg)
+![Version](https://img.shields.io/badge/version-v1.0.1Athos-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Language](https://img.shields.io/badge/language-C%23-purple.svg)
 ![.NET](https://img.shields.io/badge/.NET-9.0-blue.svg)
